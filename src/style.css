@@ -1,0 +1,80 @@
+.btn {
+  display: block;
+  width: 90%;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  margin: 0 auto;
+}
+.input_field {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  margin: 0 auto;
+  height: 40px;
+  color: #1890ff;
+  background-color: rgba(255, 255, 255, 0.767);
+}
+
+.login-form {
+  min-width: 350px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.login-form-forgot {
+  float: right;
+}
+.ant-col-rtl .login-form-forgot {
+  float: left;
+}
+.login-form-button {
+  width: 100%;
+}
+
+.ant-layout-header {
+  color: White;
+  text-transform: uppercase;
+  text-align: center;
+  font: bold;
+  font-size: 30px;
+  background-color: #1890ff;
+}
+
+.select_by {
+  margin-top: 20px;
+  margin-left: 1029px;
+  width: 150px;
+  text-align: center;
+}
+
+.blocks {
+  margin-top: 30px;
+}
+
+.rich_text {
+  text-align: center;
+  justify-content: center;
+  width: 90%;
+  margin: 0 auto;
+  border: 1px dashed #1890ff;
+  margin-top: 10px;
+  min-height: 50px;
+}
+
+.titles {
+  color: white;
+  text-align: center;
+  border: 1px solid 1890ff;
+  width: 90%;
+  background-color: #1890ff;
+  margin: 0 auto;
+  border: 1px solid rgb(96, 210, 255);
+  border-radius: 3px;
+}
+
+.btn_log_out {
+  float: right;
+}
