@@ -43,15 +43,8 @@
   background-color: #1890ff;
 }
 
-.select_by {
-  margin-top: 20px;
-  margin-left: 1029px;
-  width: 150px;
-  text-align: center;
-}
-
 .blocks {
-  margin-top: 30px;
+  margin-top: 80px;
 }
 
 .rich_text {
@@ -75,6 +68,12 @@
   border-radius: 3px;
 }
 
-.btn_log_out {
+
+.select_by {
+  display: block;
+  margin-top: 10px;
+  /* margin-left: 1029px; */
+  width: 150px;
   float: right;
+  text-align: center;
 }
